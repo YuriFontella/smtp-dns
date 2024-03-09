@@ -1,0 +1,6 @@
+falcon
+falcon-limiter
+uvicorn
+dnspython
+tortoise-orm
+asyncpg
