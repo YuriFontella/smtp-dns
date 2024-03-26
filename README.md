@@ -8,7 +8,7 @@ E-mail validation to check if the address provided is available to send messages
 python3 -m venv .venv
 ```
 ```bash
-source venv/bin/activate
+source .venv/bin/activate
 ```
 ```bassh
 pip install -r requirements.txt
